@@ -5,7 +5,7 @@ Aplicação React Native **(Full-stack)**
 
 Espera-se que você já tenha instalado: Node.JS, Expo e mongoDB
 
-1. Baixar Projeto: “ReactNativeNodeJsMongo.zip”
+1. Baixar Projeto: _“ReactNativeNodeJsMongo.zip”_
 2. Abrir pasta do projeto no VS Code
 3. Abra dois terminais. Um na raiz do projeto e outro na pasta "server"
 4. Rode "npm install" nos dois projetos (terminais)
@@ -15,7 +15,7 @@ Espera-se que você já tenha instalado: Node.JS, Expo e mongoDB
 7. Substitua as chamadas de API no projeto react native para o ip do seu computador
 
 8. No terminal do app react native rode: "expo start"
-9. Tente ler o QR Code gerado no aplicativo expo go no seu telefone (certifique-se que ambos estejam na mesma rede)
+9. Tente ler o QR Code gerado no aplicativo expo go no seu telefone _(certifique-se que ambos estejam na mesma rede)_
 10. Teste o app e procure fazer modificações
 
 Atenção:
