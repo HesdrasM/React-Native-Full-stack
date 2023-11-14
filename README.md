@@ -1,4 +1,4 @@
-# React-Native-Full-stack-
+# React Native (Full-stack)
 Aplicação React Native **(Full-stack)**
 
 ## Instruções:
